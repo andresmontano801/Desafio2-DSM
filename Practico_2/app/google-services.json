@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721288414224",
+    "project_id": "practico-2-8a1df",
+    "storage_bucket": "practico-2-8a1df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721288414224:android:51a4daca6c50d48a0f7695",
+        "android_client_info": {
+          "package_name": "com.example.practico_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHdvf09YKWleKFmaBryz1kDZmYTSpmyhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
